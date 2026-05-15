@@ -1,0 +1,12 @@
+{
+  "name": "emailsend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "send-emails.js",
+  "scripts": {
+    "start": "node send-emails.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
